@@ -1,0 +1,11 @@
+
+added the manifest.json file needed for a chrome extension 
+
+for it to work, the data.json file needs to be in this directory
+but if i cut and paste it, it gets invisble weird charatcters that break the regex.  if i directly download the file from github to my local directory it works fine but there is no way to upload or copy on this site that i can see.  i got lost on the ruby thing.
+
+the 3 file files should probably in a direcory called internet_Illuminator so people can just download the whole directory and not have it named 'chrome_extension' on their system because 'chrome_extension' isnt going to remind them what the extension does.
+
+make a packed version?
+
+my loathing for git/hub is strong.
