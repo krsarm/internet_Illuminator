@@ -1,6 +1,8 @@
 
 added the manifest.json file needed for a chrome extension 
 
+the other 2 files, brand.js and data.json are the same.
+
 for it to work, the data.json file needs to be in this directory
 but if i cut and paste it, it gets invisble weird charatcters that break the regex.  if i directly download the file from github to my local directory it works fine but there is no way to upload or copy on this site that i can see.  i got lost on the ruby thing.
 
